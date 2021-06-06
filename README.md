@@ -1,8 +1,5 @@
 
 
-
-<img align="right" alt="Coding" width="400" src="https://github.com/rajnishkumarkushwaha/rajnishkumarkushwaha/blob/main/download.jpg">
-
 <h1 align="center">Hi 👋, I'm Rajnish Kumar Kushwaha</h1>
 <h3 align="center">A passionate Matlab developer</h3>
 

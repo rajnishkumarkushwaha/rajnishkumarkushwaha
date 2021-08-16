@@ -1,7 +1,7 @@
-### Hi there 👋, my name is rajnish
-#### ECE Student
+### Hi 👋, My name is rajnish
+#### Electronics and Communication Enigineering
 
-Skills: Simulink/Python/Data Science
+Skills: Python/Data Science/Machine Learning
 
 - 🌱 I’m currently learning Machine Learning 
 - 💬 Ask me about Data Science 

@@ -1,7 +1,7 @@
 ### Hi 👋, My name is rajnish
 #### Electronics and Communication Enigineering
 
-Skills: Python/Data Science/Machine Learning
+Skills: Python/Data Science
 
 - 🌱 I’m currently learning Machine Learning 
 - 💬 Ask me about Data Science 
